@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**qisyana/qisyana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![My card name](https://cardivo.vercel.app/api?name=Qisyana&description=Hi,%20i%27m%20a%20developer%20end%20back%20and%20i%20am%2022%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://i.ibb.co/GpPJkf2/88166268-1055556998142462-1142287006668161024-o.jpg)
 
-Here are some ideas to get you started:
+## Helloo Guys<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+Hi, I'm Qisyana, My Full Name Is Qisyana Ar Qisya, Or you Can call me as Qisya, I'm an 22 y.o Coder.
+<br>
+<p align='center'>
+   <a href="https://wa.me/12029991408"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/qis_yanaa"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
+</P>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning
+  - C++
+  - Node JS
+
+🔭 I’m currently working on My Beautiful House
+ 
+ ⚡ Fun fact: I really like Indomie
+
+![Qisyana github stats](https://github-readme-stats.vercel.app/api?username=qisyana&show_icons=true&theme=tokyonight) 
