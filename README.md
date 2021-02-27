@@ -10,6 +10,10 @@ Hi, I'm Qisyana, My Full Name Is Qisyana Ar Qisya, Or you Can call me as Qisya, 
    <a href="https://instagram.com/qis_yanaa"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 </P>
 
+<p align="center">
+  <a href="https://github.com/qisyana"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=qisyana&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+</p>
+
 - 🌱 I’m currently learning
   - C++
   - Node JS
@@ -19,7 +23,3 @@ Hi, I'm Qisyana, My Full Name Is Qisyana Ar Qisya, Or you Can call me as Qisya, 
  ⚡ Fun fact: I really like Indomie
 
 ![Qisyana github stats](https://github-readme-stats.vercel.app/api?username=qisyana&show_icons=true&theme=tokyonight) 
-
-<p align="center">
-  <a href="https://github.com/qisyana"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=qisyana&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
-</p>
