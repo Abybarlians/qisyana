@@ -6,8 +6,8 @@
 Hi, I'm Qisyana, My Full Name Is Qisyana Ar Qisya, Or you Can call me as Qisya, I'm an 23 y.o Coder.
 <br>
 <p align='center'>
-   <a href="https://wa.me/6289654360447"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/qis_yanaa"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
+   <a href="https://wa.me/6281398809835"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/aby_barlians"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 </P>
 
 <p align="center">
